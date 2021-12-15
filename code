@@ -1,0 +1,3 @@
+l= [[input(), float(input())] for _ in range(int(input()))]
+g=[i for [i,j] in l ]
+print ()
